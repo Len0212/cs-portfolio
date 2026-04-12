@@ -7,6 +7,7 @@ I am a Computer Science student building my skills in multiple programming langu
 
 ### Python
 - Grade Calculator CLI (https://github.com/Len0212/grade-calculator-cli)
+- Grade Calculator CLI (link will be added)
 - Student Grade Analyzer v2 (in progress)
 
 ### Java
