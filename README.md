@@ -10,21 +10,6 @@ I am a Computer Science student building my skills in multiple programming langu
 - Student Grade Analyzer v2 (in progress)
 
 ### Java
-- (No projects yet)
-
-### VB.NET
-# My Programming Portfolio
-
-## About Me
-I am a Computer Science student building my skills in multiple programming languages and software development concepts.
-
-## Projects
-
-### Python
-- Grade Calculator CLI (link will be added)
-- Student Grade Analyzer v2 (in progress)
-
-### Java
 - (No Projects yet)
 
 ### VB.NET
