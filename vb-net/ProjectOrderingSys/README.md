@@ -25,10 +25,8 @@ A multi-form Windows Applications developed in VB.NET. This project features a p
 ```
 
 ## Sample Output 
-```bash
 <img width="1336" height="889" alt="image" src="https://github.com/user-attachments/assets/8d461aaf-aa20-4c0a-86f0-0bec9fd7ea84" />
 <img width="1399" height="889" alt="image" src="https://github.com/user-attachments/assets/fb930124-baf2-476b-8fa1-4823f7ac233b" />
-```
 
 ## Author
 April Lyne T. Salmasan
