@@ -29,9 +29,6 @@ I am a Computer Science student building my skills in multiple programming langu
 - VB.NET
 - C
 
-### C
-- (No projects yet)
-
 ## Goals
 - Improve problem-solving skills
 - Build real-world projects
