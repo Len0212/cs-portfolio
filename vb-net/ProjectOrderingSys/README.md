@@ -1,48 +1,34 @@
-# My Programming Portfolio
+# MILKTEA ORDERING SYSTEM
 
-## About Me
-I am a Computer Science student building my skills in multiple programming languages and software development concepts.
+## Description
+A multi-form Windows Applications developed in VB.NET. This project features a professional entry point (Form2) that navigates into a functional Milk Tea Ordering System (Form1). The application demonstrates form-to-form navigation, data validation, and automated pricing logic for retail environments.
 
-## Projects
+## Features
+- **Splash Screen (Form2):** Provides a clean entry point with "Start" and "Exit" functionality.
+- **Main Ordering Interface (Form1):** Handles customer names, quantities, and order customization.
+- **Size Selection:** Small (49.00), Medium (69.00), and Large (89.00).
+- **Add-on Options:** Pearls (10.00), Nata de Coco (10.00), and Cream Cheese (20.00).
+- **Navigation Logic:** Transitions from the splash screen to the ordering form while hiding the background process.
 
-### Python
-- Grade Calculator CLI (https://github.com/Len0212/grade-calculator-cli)
-- Student Grade Analyzer v2 (in progress)
+## Concepts Used
+- **Multi-Form Navigation:** Uses Form.Show() and Me.Hide() to transition from a Splash Screen (Form2) to the main system.
+- **Conditional Statements (If-ElseIf):** Evaluates selected RadioButtons to assign specific prices for cup sizes and add-ons.
+- **Input Validation:** Uses IsNumeric and Val to verify that the customer name is provided and the quantity is a valid positive number.
+- **Variables and Data Types:** Implements Double and Integer types to handle currency calculations and item counts.
+- **UI Event Handling:** Manages user interactions through Click and TextChanged events.
 
-### Java
-- (No Projects yet)
+## How to Run
+```bash
+1. Open the project file ProjectOrderingSys.sln in Visual Studio.
+2. Press F5 or click the Start button to compile and run the application.
+3. Use the Splash Screen to enter the system.
+```
 
-### VB.NET
-- Simple Ordering System - Windows Forms Application (with buttons and GUI)
+## Sample Output 
+```bash
+<img width="1336" height="889" alt="image" src="https://github.com/user-attachments/assets/8d461aaf-aa20-4c0a-86f0-0bec9fd7ea84" />
+<img width="1399" height="889" alt="image" src="https://github.com/user-attachments/assets/fb930124-baf2-476b-8fa1-4823f7ac233b" />
+```
 
-### C
-- (No Projects Yet)
-
-## Goals
-- Improve problem-solving skills
-- Build real-world projects
-- Prepare for internships
-
-## Languages I Know
-- Python
-- Java
-- VB.NET
-- C
-
-### C
-- (No projects yet)
-
-## Goals
-- Improve problem-solving skills
-- Build real-world projects
-- Prepare for internships
-
-## Languages I Know
-- Python
-- Java
-- VB.NET
-- C
-
-## Contact / Links
-- GitHub: github.com/Len0212
-
+## Author
+April Lyne T. Salmasan
